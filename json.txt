@@ -50,22 +50,22 @@
 },
  
  "skins":[
-  {"title":"skins title1 ser",
-  "photo":"https://www.gamerevolution.com/wp-content/uploads/sites/2/2019/02/fortnite4.jpg"},
-  {"title":"skins title2 ser",
-  "photo":"https://www.gamerevolution.com/wp-content/uploads/sites/2/2019/02/fortnite4.jpg"},
-  {"title":"skins title3 ser",
-  "photo":"https://www.gamerevolution.com/wp-content/uploads/sites/2/2019/02/fortnite4.jpg"},
-  {"title":"skins title4 ser",
-  "photo":"https://www.gamerevolution.com/wp-content/uploads/sites/2/2019/02/fortnite4.jpg"},
-  {"title":"skins title5 ser",
-  "photo":"https://www.gamerevolution.com/wp-content/uploads/sites/2/2019/02/fortnite4.jpg"},
-  {"title":"skins title6 ser",
-  "photo":"https://www.gamerevolution.com/wp-content/uploads/sites/2/2019/02/fortnite4.jpg"},
-  {"title":"skins title7 ser",
-  "photo":"https://www.gamerevolution.com/wp-content/uploads/sites/2/2019/02/fortnite4.jpg"},
-  {"title":"skins title8 ser",
-  "photo":"https://www.gamerevolution.com/wp-content/uploads/sites/2/2019/02/fortnite4.jpg"}
+  {"title":"chiken-Xgun 1",
+  "photo":"https://iili.io/JJ6Rqap.jpg"},
+  {"title":"chiken-Xgun 2",
+  "photo":"https://iili.io/JJ6RfFR.jpg"},
+  {"title":"chiken-Xgun 3",
+  "photo":"https://iili.io/JJ6RF6v.jpg"},
+  {"title":"chiken-Xgun 4",
+  "photo":"https://iili.io/JJ6R3MJ.jpg"},
+  {"title":"chiken-Xgun 5",
+  "photo":"https://iili.io/JJ6Rqap.jpg"},
+  {"title":"chiken-Xgun 6",
+  "photo":"https://iili.io/JJ6RB8N.png"},
+  {"title":"chiken-Xgun 7",
+  "photo":"https://iili.io/JJ6Rqap.jpg"},
+  {"title":"chiken-Xgun 8",
+  "photo":"https://iili.io/JJ6RB8N.png"}
    ],
 
    "maps":[
